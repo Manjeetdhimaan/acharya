@@ -82,7 +82,7 @@ a:hover {
 }
 .btn:hover
 {
-	background: #37a4dd;
+	background: #881b21;
 	color:#ffffff;
 }
 
@@ -141,7 +141,7 @@ Header Area CSS
 }
 
 .top-header-social li a:hover {
-  color: #37a4dd;
+  color: #881b21;
   -webkit-transform: translateY(-2px);
           transform: translateY(-2px);
 }
@@ -182,6 +182,7 @@ Header Area CSS
 .navbar-area {
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  background-color: #fdc702;
 }
 
 .navbar-area.is-sticky {
@@ -483,7 +484,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 .menu_open:hover
 {
-	color: #37a4dd;
+	color: #881b21;
 }
 #mySidenav .mobile_menu_li
 {
@@ -553,7 +554,7 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
     list-style: none;
     padding: 0px;
     margin: 0;
-	max-height: 500px;
+	/* max-height: 500px; */
     overflow: auto;
 }
 
@@ -564,7 +565,8 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
 }
 
 .astrology-nav {
-	background-color: #ffffff;
+	/* background-color: #ffffff; */
+	background-color: #fdc702;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -602,9 +604,9 @@ html body .dropdown-menu>li>a:focus, html body .dropdown-menu>li>a:hover {
   margin-bottom: 0;
 }
 
-.astrology-nav .navbar .navbar-nav {
+/* .astrology-nav .navbar .navbar-nav {
   margin-left: auto;
-}
+} */
 
 .astrology-nav .navbar .navbar-nav .nav-item {
   position: relative;
@@ -1312,7 +1314,7 @@ html body .owl-carousel:hover .owl-buttons .owl-prev, html body .owl-carousel:ho
 }
 
 html body .owl-carousel .owl-buttons .owl-prev:hover, html body .owl-carousel .owl-buttons .owl-next:hover {
-    background: #37a4dd;
+    background: #881b21;
 	
 }
 html body .owl-carousel .owl-buttons div i {
@@ -1353,7 +1355,7 @@ html body .owl-carousel {
 #about_us.about_section
 {
     padding: 50px 0;
-    background-image: linear-gradient(#f8f2ea, #ffffff,#fdc702);
+    background: #fdc702;
     margin: 0 auto;
     animation: spinsun 6s infinite linear;
 }
@@ -1381,7 +1383,7 @@ html body .owl-carousel {
 }
 #about_us.about_section h2.about_contact
 {
-    color: #37a4dd;
+    color: #881b21;
     font-size: 36px;
 	font-weight: 700;
 }
@@ -1474,7 +1476,7 @@ html body .owl-carousel {
 }
 #website_visitors.astrologers-work .astrologers_visitors .astrologers_experience h3
 {
-    color: #37a4dd;
+    color: #881b21;
     font-size: 70px;
     font-weight: bold;
 	margin-bottom:10px;
@@ -1531,7 +1533,7 @@ html body .owl-carousel {
 #services.services_section .our-ser4 {
     padding: 15px;
     transition: all 200ms linear;
-    background-image: linear-gradient(#f69605, #fcbf07,#881b21);
+    background:  #fcbf07;
 }
 
 #services.services_section .our-ser6 img {
@@ -1562,7 +1564,7 @@ html body .owl-carousel {
     margin-bottom: 25px;
     border-radius: 100%;
     max-width: 100px;
-    border: 1.5px dashed #37a4dd;
+    border: 1.5px dashed #881b21;
     padding: 3px;
 }
 #testimonials.testimonial_section .testimonial_inner_matter h6
@@ -1606,7 +1608,7 @@ html body .owl-carousel {
 }
 #blogs.blog_section .blog_inner_matter .admin_and_comments i
 {
-    color: #37a4dd;
+    color: #881b21;
 	margin-right: 2px;
 }
 #blogs.blog_section .blog_inner_matter .admin_and_comments .blog_admin
@@ -1624,7 +1626,7 @@ html body .owl-carousel {
     position: absolute;
     top: 0;
     right: 0;
-    background: #37a4dd;
+    background: #881b21;
     color: #ffffff;
     padding: 5px 10px;
     font-size: 12px;
@@ -1720,7 +1722,7 @@ html body .owl-carousel {
     border-radius: 0;
     top: 0;
     right: 0;
-    background: #37a4dd;
+    background: #881b21;
     -webkit-transition: all .25s;
     -o-transition: all .25s;
     transition: all .25s;
@@ -1878,7 +1880,7 @@ html body .owl-carousel {
 }
 .footer_copyright a:hover
 {
-    color: #37a4dd;
+    color: #881b21;
 }
 /* ******************************back-to-top scrtion *******************************************/
 .back-to-top 
@@ -1936,7 +1938,7 @@ html body .owl-carousel {
 }
 .back-to-top i:hover
 {
-    background: #37a4dd; 
+    background: #881b21; 
 }
 .back-to-top i:before 
 {
@@ -2090,7 +2092,7 @@ html body .owl-carousel {
     text-align: center;
     letter-spacing: 0;
     border-radius: 5px;
-	background:#37a4dd;
+	background:#881b21;
 }
 #products.products_section .product-thumb .caption button i {
     margin-right:3px;
@@ -2458,7 +2460,7 @@ breadcrumb CSS
 }
 #category_product.category_product .btn:hover {
     background: transparent;
-    color: #37a4dd;
+    color: #881b21;
 }
 #category_product.category_product p.price  {
     margin: 0 0 0px;
@@ -2570,7 +2572,7 @@ breadcrumb CSS
 	vertical-align: top;
 }
 #cart .eb-form-inline .form-button .btn {
-   background-color: #37a4dd;
+   background-color: #881b21;
     min-width: 190px;
     box-shadow: none;
     border: 0;
@@ -2753,7 +2755,7 @@ breadcrumb CSS
     text-align: center;
     letter-spacing: 0;
     border-radius: 5px;
-    background: #37a4dd;
+    background: #881b21;
 }
 #products_products .single_products_left_side .rating i
 {
@@ -2773,8 +2775,8 @@ breadcrumb CSS
 #products_products .single_products_left_side .in-stock
 {
     background: transparent;
-    border: 2px solid #37a4dd;
-    color: #37a4dd;
+    border: 2px solid #881b21;
+    color: #881b21;
     padding: 4px;
     text-align: center;
     border-radius: 30px;
@@ -2892,7 +2894,7 @@ breadcrumb CSS
 	color: #881b21;
 }
 .custom button.items-count:hover {
-	color: #37a4dd;
+	color: #881b21;
 }
 .email-addto-box {
 	display: inline-block;
@@ -3274,7 +3276,7 @@ ul.shipping-pro li {
 }
 #sidebar_blog.sidebar_blog .btn:hover {
     background: transparent;
-    color: #37a4dd;
+    color: #881b21;
 }
 
 .blog_page #sidebar_blog.sidebar_blog .blog_inner_matter {
@@ -3340,7 +3342,7 @@ em.required
 }
 .contact-box-item .link-inline i
 {
-    color: #37a4dd;
+    color: #881b21;
     margin-right: 5px;
 }
 .contact-box {
@@ -3378,7 +3380,7 @@ em.required
 }
 .not_found h1 span
 {
-   color:#37a4dd;
+   color:#881b21;
    
 }
 .not_found .btn
@@ -3410,7 +3412,7 @@ em.required
 #register ul li i
 {
     margin-right: 5px;
-    color: #37a4dd;
+    color: #881b21;
 }
 
 #register .registration p {
